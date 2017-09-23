@@ -1,1 +1,1 @@
-# Simple-JS-Solutions
+# Project with simple JS solutions
